@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @classmaster6
+- 👀 I’m interested in cool stuff
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on something
+- 📫 How to reach me frontlend2@gmail.com
